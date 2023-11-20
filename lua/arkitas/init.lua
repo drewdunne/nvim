@@ -1,3 +1,3 @@
 require("arkitas.remap")
-print("hello from arkitas")
+print("Welcome to the Training Grounds")
 
